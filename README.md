@@ -1,5 +1,5 @@
 <div align = "center">
-  <img width = 54% align = "center" src = "https://github-readme-streak-stats.herokuapp.com?user=Walkerxinho7&theme=cobalt&mode=weekly"/>
+  <img width = 54% align = "center" src = "https://github-readme-streak-stats.herokuapp.com?user=Walkerxinho7&theme=dark&mode=weekly"/>
   <img width = 39% align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Walkerxinho7&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
