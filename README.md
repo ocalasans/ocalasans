@@ -10,6 +10,13 @@
 #### Linguagens:
 <div>
   <a href = "https://pt.wikipedia.org/wiki/Pawn" target = "_blank"><img src = "https://img.shields.io/badge/Pawn-white?style=for-the-badge&logo=pawn&logoColor=yellow"></a>
+  <a href = "https://pt.wikipedia.org/wiki/HTML" target = "_blank"><img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+</div>
+
+#### Databases:
+<div>
+  <a href = "https://pt.wikipedia.org/wiki/MySQL" target = "_blank"><img src = "https://img.shields.io/badge/mysql-%23000f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href = "https://pt.wikipedia.org/wiki/SQLite" target = "_blank"><img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </div>
 
 #### Ferramentas:
