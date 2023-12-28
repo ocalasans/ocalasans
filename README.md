@@ -11,6 +11,7 @@
 <div>
   <a href = "https://pt.wikipedia.org/wiki/Pawn"> <img src = "https://img.shields.io/badge/Pawn-white?style=for-the-badge&logo=pawn&logoColor=yellow"></a>
   <a href = "https://pt.wikipedia.org/wiki/HTML"> <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href = "https://pt.m.wikipedia.org/wiki/Markdown"> <img src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </div>
 
 #### Databases:
