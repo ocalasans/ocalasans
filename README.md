@@ -27,6 +27,9 @@
   <a href = "https://notepad-plus-plus.org"> <img src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/></a>
 </div>
 
+#### Visitas
+<a href = "https://visitorbadge.io/status?path=Walkerxinho7"> <img src = "https://api.visitorbadge.io/api/visitors?path=Walkerxinho7&label=V%2FA&countColor=%232ccce4"/></a>
+
 ## Contatos
 <div> 
   <a href = "https://www.instagram.com/ocalasans"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
