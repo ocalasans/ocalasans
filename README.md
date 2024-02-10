@@ -1,8 +1,8 @@
-<a href = "https://github.com/Walkerxinho7"> <img src = "https://readme-typing-svg.herokuapp.com?font=Monaco&duration=2500&pause=700&color=7E7E7E&center=true&random=false&width=1000&lines=Bem-vindo!+%3A)" alt = "Typing SVG"/></a>
+<a href = "https://github.com/ocalasans"> <img src = "https://readme-typing-svg.herokuapp.com?font=Monaco&duration=2500&pause=700&color=7E7E7E&center=true&random=false&width=1000&lines=Bem-vindo!+%3A)" alt = "Typing SVG"/></a>
 
 <div>
-  <a href = "https://github.com/Walkerxinho7"> <img width = 54% align = "center" src = "https://github-readme-streak-stats.herokuapp.com?user=Walkerxinho7&theme=dark&mode=weekly"/></a>
-  <a href = "https://github.com/Walkerxinho7"> <img width = 39% align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Walkerxinho7&layout=compact&langs_count=7&theme=dark"/></a>
+  <a href = "https://github.com/ocalasans"> <img width = 54% align = "center" src = "https://github-readme-streak-stats.herokuapp.com?user=ocalasans&theme=dark&mode=weekly"/></a>
+  <a href = "https://github.com/ocalasans"> <img width = 39% align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ocalasans&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
 ## Informações
@@ -28,7 +28,7 @@
 </div>
 
 #### Visitas:
-<a href = "https://visitorbadge.io/status?path=Walkerxinho7"> <img src = "https://api.visitorbadge.io/api/visitors?path=Walkerxinho7&label=V%2FA&countColor=%232ccce4"/></a>
+<a href = "https://visitorbadge.io/status?path=ocalasans"> <img src = "https://api.visitorbadge.io/api/visitors?path=ocalasans&label=V%2FA&countColor=%232ccce4"/></a>
 
 ## Contatos
 <div> 
@@ -37,4 +37,4 @@
   <a href = "https://abre.ai/samp-spc"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
-<a href = "https://github.com/Walkerxinho7"> <img width = 100% align = "center" src = "https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/></a>
+<a href = "https://github.com/ocalasans"> <img width = 100% align = "center" src = "https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/></a>
